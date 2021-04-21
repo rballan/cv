@@ -163,7 +163,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Backgrounds */
 
 .bg-1{
-  background-image: url('../images/floor1.jpg');
+  background-image: url('../images/clouds.jpg');
 }
 
 /* Header */
@@ -604,6 +604,27 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .asbestos > span{
   background-color: #7f8c8d;
 }
+
+.blue > span{
+  background-color: #6ee4ec;
+}
+
+.darkblue > span{
+  background-color: #1503b9;
+}
+
+.candy > span{
+  background-color: #fd7fd7;
+}
+
+.redish > span{
+  background-color: #ff9b9b;
+}
+
+.bee > span{
+  background-color: #eaf07e;
+}
+
 .nostripes > span > span, .nostripes > span:after {
   -webkit-animation: none;
   background-image: none;
